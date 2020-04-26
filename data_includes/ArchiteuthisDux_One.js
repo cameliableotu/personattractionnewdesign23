@@ -215,7 +215,7 @@ var items = [
 [["filler-twonounspluralcorrectchoice",36],DS, {s:"Omul pe care animalele îl îndrăgesc este blând. "},"QuestionAlt", {q: "Cine îndrăgeşte (pe cineva)?", as: ["Omul","Animalele"]}]
 
 ,
-    [["filler-twonounssingularcorrectchoice",37],DS, {s:"Vinurile pe care domnul le iubeşte sunt seci."},"QuestionAlt", {q: "Cine iubeşte?", as: ["Vinurile","Domnul"]}],
+[["filler-twonounssingularcorrectchoice",37],DS, {s:"Vinurile pe care domnul le iubeşte sunt seci."},"QuestionAlt", {q: "Cine iubeşte?", as: ["Vinurile","Domnul"]}],
 [["filler-twonounssingularcorrectchoice",38],DS, {s:"Scrisorile pe care fata le citeşte sunt lungi."},"QuestionAlt", {q: "Cine citeşte?", as: ["Scrisorile","Fata"]}],
 [["filler-twonounssingularcorrectchoice",39],DS, {s:"Girafele pe care copilul le priveşte sunt înalte."},"QuestionAlt", {q: "Cine priveşte?", as: ["Girafele","Copilul"]}],
 [["filler-twonounssingularcorrectchoice",40],DS, {s:"Motanii pe care bunicul îi adăposteşte sunt tigraţi."},"QuestionAlt", {q: "Cine adăposteşte?", as: ["Motanii","Bunicul"]}],
@@ -249,7 +249,7 @@ var items = [
 [["filler-semanticchoice",66],DS, {s:"Papucii de lângă copiii bolnavi alunecă uşor."},"QuestionAlt", {q: "Cine/ce alunecă uşor?", as: ["Papucii","Copiii bolnavi"]}],
 [["filler-semanticchoice",67],DS, {s:"Hainele de lângă femeile zâmbăreţe cad mereu."},"QuestionAlt", {q: "Cine/ce cade mereu?", as: ["Hainele","Femeile zâmbăreţe"]}],
 [["filler-semanticchoice",68],DS, {s:"Albinele de lângă portocalele stricate bȃzȃie prea tare."},"QuestionAlt", {q: "Cine/ce bȃzȃie prea tare?", as: ["Albinele","Portocalele stricate"]}],
-[["filler-semanticchoice",69],DS, {s:"Râul de lângă pădurea frumoasă curge adesea vara."},"QuestionAlt", {q: "Cine/ce bȃzȃie prea tare?", as: ["Albinele","Portocalele stricate"]}],
+[["filler-semanticchoice",69],DS, {s:"Râul de lângă pădurea frumoasă curge adesea vara."},"QuestionAlt", {q: "Ce curge adesea vara?", as: ["Râul","Pădurea frumoasă"]}],
 [["filler-semanticchoice",70],DS, {s:"Urşii de lângă prinţesele minunate se căsătoresc."},"QuestionAlt", {q: "Cine se căsătoresc?", as: ["Urşii","Prinţesele minunate"]}],
 [["filler-semanticchoice",71],DS, {s:"Florile de lângă sticlele albastre se ofilesc mereu."},"QuestionAlt", {q: "Ce se ofilesc mereu?", as: ["Florile","Sticlele albastre"]}],
 [["filler-semanticchoice",72],DS, {s:"Calculatoarele de lângă copiii năzdrăvani se strică uneori."}, "QuestionAlt", {q: "Cine/ce se strică uneori?", as: ["Calculatoarele","Copiii năzdrăvani"]}],
@@ -270,7 +270,7 @@ var items = [
 [["filler-onenounsgagreement",85],DS, {s:"Fata şatenă se ascunde de prieteni adesea."}, "QuestionAlt", {q: "Cine se ascunde de prieteni adesea?", as: ["Fata şatenă","Fata blondă"]}],
 [["filler-onenounsgagreement",86],DS, {s:"Pisica năzdrăvană sparge vase tot timpul."},"QuestionAlt", {q: "Cine sparge vase tot timpul?", as: ["Pisica năzdrăvană","Pisica simpatică"]}],
 [["filler-onenounsgagreement",87],DS, {s:"Caietul negru are pagini albe."},"QuestionAlt", {q: "Ce pagini are caietul negru?", as: ["Albe","Galbene"]}],
-[["filler-onenounsgagreement",88],DS, {s:"Magnetul maro atrage metale adesea."},"QuestionAlt", {q: "Ce atrage magnetul maro adesea?", as: ["Metale","Galbene"]}],
+[["filler-onenounsgagreement",88],DS, {s:"Magnetul maro atrage metale adesea."},"QuestionAlt", {q: "Ce atrage magnetul maro adesea?", as: ["Metale","Caiete"]}],
 [["filler-onenounsgagreement",89],DS, {s:"Pixul albastru scrie foarte bine."},"QuestionAlt", {q: "Cum scrie pixul albastru?", as: ["Foarte bine","Foarte prost"]}],
 [["filler-onenounsgagreement",90],DS, {s:"Iepurele alb sare cu mare agilitate."},"QuestionAlt", {q: "Cine sare cu mare agilitate?", as: ["Iepurele alb","Iepurele maro"]}],
 [["filler-onenounsgagreement",91],DS, {s:"Studentul harnic munceşte foarte mult."},"QuestionAlt", {q: "Cine munceşte foarte mult?", as: ["Studentul harnic","Studentul deştept"]}],
