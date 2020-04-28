@@ -231,7 +231,7 @@ var items = [
  [["filler-coordination",49],DS, {s:"Femeia şi copilul beau mult suc."}],
 [["filler-coordination",50],DS, {s:"Doctorul şi bolnavul plâng mult din cauza bolii."},"QuestionAlt", {q: "Cine plânge?", as: ["Doctorul","Bolnavul", "Doctorul şi bolnavul","Doctorul şi pacientul"]}],
 [["filler-coordination",51],DS, {s:"Vulpoiul şi vulpea sar în aer foarte rapid."}],
-[["filler-coordination",52],DS, {s:"Găina şi puiul ciugulesc firimituri adesea."},"QuestionAlt", {q: "Cine ciuguleşte?", as: ["Găina","Puiul","Găina şi puiul","Cocoşul şi puiul]}],
+[["filler-coordination",52],DS, {s:"Găina şi puiul ciugulesc firimituri adesea."},"QuestionAlt", {q: "Cine ciuguleşte?", as: ["Găina","Puiul","Găina şi puiul","Cocoşul şi puiul"]}],
 [["filler-coordination",53],DS, {s:"Paharul şi sticla cad de pe birou uneori."}],
 [["filler-coordination",54],DS, {s:"Oboseala şi plictisul ucid iubirea adesea."}],
 [["filler-coordination",55],DS, {s:"Iubirea şi prietenia susţin moralul întotdeauna."}],
