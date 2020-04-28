@@ -1,6 +1,5 @@
 
 
-// Do show progress bar (fine!!)
 var showProgressBar = true;
 
 // Main shuffleSequence definition
